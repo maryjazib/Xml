@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Flowershop>
+<flower>
+
+<id>001</id>
+<Flower-name>ROSE</Flower-name>
+<No-of-items>2924 Units</No-of-items>
+
+<id>002</id>
+<Flower-name>TULIP</Flower-name>
+<No-of-items>4650 Units</No-of-items>
+
+<id>003</id>
+<Flower-name>LILLY</Flower-name>
+<No-of-items>2146 Units</No-of-items>
+
+<id>004</id>
+<Flower-name>JASMIN</Flower-name>
+<No-of-items>926 Units</No-of-items>
+
+<id>005</id>
+<Flower-name>DAFFODILS</Flower-name>
+<No-of-items>0 Units</No-of-items>
+
+</flower>
+</Flowershop>
